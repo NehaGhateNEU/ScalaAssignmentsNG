@@ -1,0 +1,2 @@
+# ScalaAssignmentsNG
+For Scala assignments
